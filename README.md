@@ -6,4 +6,4 @@ For learning encryption in openssl [`encryptor.cpp`](encryptor.cpp)
 
 For learning openssl and debugging: [`executor.cpp`](executor.cpp)
 
-Diploma code in ClickHouse [fork](https://github.com/alexelex/ClickHouse)
+Diploma code in ClickHouse [fork](https://github.com/alexelex/ClickHouse), [pull request](https://github.com/ClickHouse/ClickHouse/pull/24206)
